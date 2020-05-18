@@ -32,17 +32,9 @@ Initially Android only (see target audience for why).
 
 My girlfriend (this is a birthday gift actually!).
 
-**Time Table**
-
-10 days: Between 17.05.2020 and 27.05.2020 (THE DAY).
-
 **Control Scheme**
 
 Touch controls for various buttons. No joypad, d-pad etc.
-
-**Story & Narrative**
-
-N/A.
 
 **Characters**
 
