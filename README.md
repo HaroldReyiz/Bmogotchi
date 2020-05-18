@@ -1,3 +1,5 @@
+![alt text](https://github.com/HaroldReyiz/Bmogotchi/blob/master/Bmogotchi/BMO.png "BMO.png")
+
 **Bmogotchi**
 
 Bmogotchi is a tamagotchi like game where you take care of your BMO!
