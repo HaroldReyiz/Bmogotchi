@@ -50,6 +50,8 @@ BMO, a living gameboy. Cute. My GF basically.
   Examples: Feeding, bathing etc.
   Some actions are only possible when certain statuses are active. Example: Can only vaccinate when not sick or can only give an injection when sick.
 
+- For every 4 hours spent, BMO gains a level. With each level, new actions will be unlocked.
+
   Detailed information such as the action vs. metric matrix and list of status buffs & debuffs are in the .xlsx companion of this text document.
 
 **Graphics & Art Direction**
