@@ -38,21 +38,21 @@ Touch controls for various buttons. No joypad, d-pad etc.
 
 **Characters**
 
-BMO, a living gameboy. Cute. My GF basically.
+**BMO**, a living gameboy. Cute. My GF basically.
 
 **Gameplay**
 
-- There will be 6 metrics governing the life of BMO: Health, Hygiene, Fullness (as in not hungry), Happiness, Fun, Energy.
+- There will be 5 **metrics** governing the life of BMO: Health, Hygiene, Fullness (as in not hungry), Happiness, Energy.
   They all have values ranging from 10 (best) to 0 (worst). When health reaches 0, game is lost. Health is also influenced by other 5 metrics.
   When these metrics are below or above certain thresholds (specific to each), some status buffs/debuffs are applied.
-
-- There are various actions the player can take to increase/decrease these metrics at any given time.
+- There are also instant buffs/debuffs called boosts/hits.
+- There are various _actions_ the player can take to increase/decrease these metrics at any given time.
   Examples: Feeding, bathing etc.
-  Some actions are only possible when certain statuses are active. Example: Can only vaccinate when not sick or can only give an injection when sick.
+  Some _actions_ are only possible when certain **statuses** are active. Example: Can only _vaccinate_ when not sick or can only _give an injection_ when sick.
+- A day in BMO's life is 24 hours.
+- For every 12 hours spent, BMO gains a **level**. With each **level**, new _actions_ will be unlocked.
 
-- For every 4 hours spent, BMO gains a level. With each level, new actions will be unlocked.
-
-  Detailed information such as the action vs. metric matrix and list of status buffs & debuffs are in the .xlsx companion of this text document.
+  Detailed information such as the _action_ vs. **metric** matrix and list of **status buffs & debuffs** are in the **Metrics.xlsx** companion of this text document.
 
 **Graphics & Art Direction**
 
